@@ -11,6 +11,8 @@ def is_even(n):
         return True
     else:
         return False
+# return n % 2 == 0
+
 
 main()
 
